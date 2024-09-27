@@ -1,1 +1,1 @@
-just my little project about random generator using bootstrap and javascript:)
+Just my little random project about random generator using bootstrap and javascript:)
